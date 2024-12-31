@@ -1,0 +1,6 @@
+== This Pattern
+== Call - Bind - Apply
+== Closure
+== Factory Pattern
+----------------------------------
+== OOP Presentation
